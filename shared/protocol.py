@@ -1,0 +1,7 @@
+DISCONNECT_MSG = 'DISCONNECT'
+
+CONNECT_MSG_HEADER = 'CONNECT'  # CONNECT #username
+OK = 'OK'
+
+SEND_MSG = 'MSG'  # MSG #msg
+RECV_MSG = 'RECV_MSG'  # RECV_MSG #from #msg
